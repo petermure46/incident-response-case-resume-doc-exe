@@ -20,7 +20,7 @@ This project documents a real-world incident response and forensic analysis of a
 |----------------|--------------------------------------------------|
 | `report/`      | Original redacted PDF forensic report            |
 | `analysis/`    | Breakdowns of infection stages and behaviors     |
-| `images/`      | Screenshots and visual evidence (optional)       |
+| `images/`      | Screenshots and visual evidence        |
 | `tools-used.md`| List of tools used during the investigation      |
 
 ---
